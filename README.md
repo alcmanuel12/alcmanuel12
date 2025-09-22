@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Manuel, a first year student of web application development. 🧑‍💻 </div>  
+### <div align="center">I am Manuel, a second-year student in web application development.. 🧑‍💻 </div>  
   
 
 - I am currently studying at CEI sevilla. 🖥️  

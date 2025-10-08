@@ -9,7 +9,7 @@
 - I am currently studying at CEI sevilla. 🖥️  
   
 
-- I am currently learning Java📘  
+- Junior Java skills and expanding horizons 🚀
   
 
 - Always willing to use new technologies and learn about them in order to apply them to the work environment.   
